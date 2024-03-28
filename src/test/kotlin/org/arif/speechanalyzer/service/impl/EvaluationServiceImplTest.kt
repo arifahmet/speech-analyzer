@@ -4,7 +4,7 @@ import org.arif.speechanalyzer.exception.ErrorMessageEnum
 import org.arif.speechanalyzer.exception.ParameterFormatException
 import org.arif.speechanalyzer.exception.ParameterSizeMisMatchException
 import org.arif.speechanalyzer.service.EvaluationService
-import org.assertj.core.api.AssertionsForClassTypes.*
+import org.assertj.core.api.AssertionsForClassTypes.assertThat
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.ValueSource
