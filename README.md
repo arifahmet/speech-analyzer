@@ -1,6 +1,6 @@
 # Speech Analyzer
 
-This project processes data from CSV files. It provides an endpoint that can handle one or multiple URLs for processing.
+This project processes data from CSV files. It provides an endpoint that can handle one or multiple URLs for processing. Example CSV file exists into example folder.
 
 ## Usage
 
